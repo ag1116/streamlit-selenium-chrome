@@ -1,3 +1,4 @@
 streamlit
-seleniumbase
-webdriver-manager
+playwright
+beautifulsoup4
+pandas
